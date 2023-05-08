@@ -1,14 +1,12 @@
 # Camila Haika Zumach
-**Marketing Analyst at @sharpmedia.**
+**Team Leader of Performance at @sharpmedia.**
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiophilips/)](https://www.linkedin.com/in/camilahaikazumach/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haika2407@gmail.com)](mailto:haika2407@gmail.com)
-- :telescope: I'm currently working with **Paid Media** and **Data Analytics**.
-- :seedling: I’m currently learning about **Data Science** and **Data visualization**!
+- :seedling: Specialising in **Computer Vision** and **Data visualization**!
+- :location: Currently in Berlin
 
-Passionate about investements and data enthusiastic.
-
-“Believe you can and you're halfway there.”
-― Theodore Roosevelt
+“Pali anicca, Sanskrit anitya”
+― B.
 <!--
 **Taaaaaar/Taaaaaar** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
